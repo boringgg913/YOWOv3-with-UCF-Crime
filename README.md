@@ -5,7 +5,6 @@
    
 2. Preprocess the dataset
    1.Dowload the dataset
-
    2.Cut all videos in the dataset into pictures, one picture per frame
      python split_to_images_test_traverse.py
    3.Perform human detection on a specified segment (frame number) of a video
