@@ -17,8 +17,7 @@
    
 3. About training
   1.Modify the YAML file
-  2.
-  3. Start trainging
+  2. Start trainging
      python main.py --mode train --config config/ucfcrime_config.yaml
      
 5. Other instructions
